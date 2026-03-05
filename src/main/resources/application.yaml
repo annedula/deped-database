@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: DepEd_DB
+
+spring:
+  datasource:
+    url: postgresql://postgres:annedula.26@db.snczzvgispwfkcfnwqev.supabase.co:5432/postgres
+    username: Anne-1-hash
+    password: annedula.26@
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+    
