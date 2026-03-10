@@ -1,4 +1,4 @@
-package com.github.Anne_1_hash.DepEd_DB;
+package com.github.annedula.DepEd_DB;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

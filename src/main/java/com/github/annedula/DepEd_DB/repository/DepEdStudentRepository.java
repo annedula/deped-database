@@ -1,8 +1,9 @@
-package com.github.Anne_1_hash.DepEd_DB.repository;
+package com.github.annedula.DepEd_DB.repository;
 
-import com.github.Anne_1_hash.DepEd_DB.entity.DepEdStudent;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+
+import com.github.annedula.DepEd_DB.entity.DepEdStudent;
 
 import java.time.LocalDate;
 import java.util.Optional;

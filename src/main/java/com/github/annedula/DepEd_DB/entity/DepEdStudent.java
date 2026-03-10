@@ -1,4 +1,4 @@
-package com.github.Anne_1_hash.DepEd_DB.entity;
+package com.github.annedula.DepEd_DB.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
