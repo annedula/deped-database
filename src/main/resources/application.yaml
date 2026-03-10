@@ -20,4 +20,4 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
     show-sql: true
 
-  server: port:${PORT:8080}
+server: port:${PORT:8080}
